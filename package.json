@@ -1,0 +1,21 @@
+{
+  "name": "babel-plugin-transform-gl-matrix",
+  "version": "0.0.1",
+  "description": "let the javascript support the matrix addition operation",
+  "scripts": {
+    "compile": "babel test/index.js"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  },
+  "keywords": [
+    "babel",
+    "babel-plugin",
+    "babel-plugin-transform",
+    "babel-plugin-gl-matrix"
+  ],
+  "author": "北歌",
+  "license": "MIT"
+}
